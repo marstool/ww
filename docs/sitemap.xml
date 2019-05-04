@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="hddp://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="hddp://www.w3.org/1999/xhtml">
   
   <url>
     <loc>/</loc>
   </url>
   
   <url>
-    <loc>/a2019_01/</loc>
+    <loc>/64/</loc>
   </url>
   
   <url>
-    <loc>/a2019_02/</loc>
+    <loc>/tbq/</loc>
   </url>
   
   <url>
-    <loc>/a2019_03/</loc>
+    <loc>/sec/</loc>
   </url>
   
   <url>
@@ -27,19 +27,19 @@
   </url>
   
   <url>
-    <loc>/b2019_01/</loc>
+    <loc>/weiruineila20190501/</loc>
   </url>
   
   <url>
-    <loc>/b2019_02/</loc>
+    <loc>/muellerreport201904/</loc>
   </url>
   
   <url>
-    <loc>/b2019_03/</loc>
+    <loc>/dbc/</loc>
   </url>
   
   <url>
-    <loc>/b2019_04/</loc>
+    <loc>/1984/</loc>
   </url>
   
   <url>
@@ -47,15 +47,15 @@
   </url>
   
   <url>
-    <loc>/n2019_01/</loc>
+    <loc>/gd/</loc>
   </url>
   
   <url>
-    <loc>/o2019_04/</loc>
+    <loc>/mp300003/</loc>
   </url>
   
   <url>
-    <loc>/z2019_04/</loc>
+    <loc>/mp3s/</loc>
   </url>
   
   <url>
