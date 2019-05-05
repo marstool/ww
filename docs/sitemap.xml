@@ -15,10 +15,6 @@
   </url>
   
   <url>
-    <loc>/sec/</loc>
-  </url>
-  
-  <url>
     <loc>/d2019_03/</loc>
   </url>
   
@@ -64,6 +60,10 @@
   
   <url>
     <loc>/gd/</loc>
+  </url>
+  
+  <url>
+    <loc>/sec/</loc>
   </url>
   
   <url>

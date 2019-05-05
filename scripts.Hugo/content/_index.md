@@ -12,7 +12,7 @@ weight = 20
 * [ 00201 唐柏桥 @BaiqiaoCh ]({{< relref "tbq" >}})
 
 
-* [ 00301 地球太危險，我們趕緊修好飛船，回火星吧 ]({{< relref "sec" >}})
+* [ sec 安全上网教程  ]({{< relref "sec" >}})
 
 
 * [ b02  穆勒报告删节版全文 美国检察官 调查2016选举 通俄们报告 部分被涂黑  ]({{< relref "muellerreport201904" >}})
