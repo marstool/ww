@@ -1,5 +1,5 @@
 +++
-title = "00new 最新热点追踪"
+title = "000new 最新热点追踪"
 
 description = ""
 weight = 20

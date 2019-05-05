@@ -57,5 +57,5 @@ weight = 20
 * [ b04 1894 老大哥 在 盯着你 by George Orwell  ]({{< relref "1984" >}})
 
 
-* [ 00new 最新热点追踪 ]({{< relref "00news" >}})
+* [ 000new 最新热点追踪 ]({{< relref "000news" >}})
 
