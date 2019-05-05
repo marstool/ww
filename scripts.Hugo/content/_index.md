@@ -6,6 +6,9 @@ weight = 20
 
 
 
+* [ zznew 最新热点追踪 ]({{< relref "zznews" >}})
+
+
 * [ b01  委内瑞拉 2019 0430 装甲车 压人 逐格播放 第 78 格开始 明显压人  ]({{< relref "weiruineila20190501" >}})
 
 
@@ -52,4 +55,7 @@ weight = 20
 
 
 * [ b04 1894 老大哥 在 盯着你 by George Orwell  ]({{< relref "1984" >}})
+
+
+* [ 00new 最新热点追踪 ]({{< relref "00news" >}})
 
