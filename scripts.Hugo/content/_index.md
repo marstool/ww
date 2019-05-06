@@ -24,6 +24,9 @@ weight = 20
 * [ z04 mp3s.jjj123.com ]({{< relref "mp3s" >}})
 
 
+* [ mp300008 移民访谈录 ]({{< relref "mp300008" >}})
+
+
 * [ mp300007 蕭若元：理論蕭析 PLPY0_ooDN1dsyBnGyDUktC67B52Uwiquv ]({{< relref "mp300007" >}})
 
 
@@ -45,10 +48,7 @@ weight = 20
 * [ b03 致命 中国 2011 Death by China  ]({{< relref "dbc" >}})
 
 
-* [ 201904 灾难事件all ]({{< relref "d2019_04" >}})
-
-
-* [ 201903 灾难事件all ]({{< relref "d2019_03" >}})
+* [ 201905 灾难事件all ]({{< relref "d2019_05" >}})
 
 
 * [ 00101 1989年6月4日广场故事集001 ]({{< relref "64" >}})
