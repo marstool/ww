@@ -30,7 +30,7 @@ weight = 20
 * [ mp300007 蕭若元：理論蕭析 PLPY0_ooDN1dsyBnGyDUktC67B52Uwiquv ]({{< relref "mp300007" >}})
 
 
-* [ mp300006 蕭若元：大中華膠 PLPY0_ooDN1dv5UZgYbkqPM7vpDfoaLyvV  ]({{< relref "mp300006" >}})
+* [ mp300006201905 蕭若元：大中華膠 PLPY0_ooDN1dv5UZgYbkqPM7vpDfoaLyvV  ]({{< relref "mp300006" >}})
 
 
 * [ mp300005 AV Daniel Violin 走向自由 : PLJflBCFTVESngU7SCTbZEPlPGNzepPl-T  ]({{< relref "mp300005" >}})
