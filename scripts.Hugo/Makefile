@@ -23,6 +23,11 @@ gd :
 
 ga :
 	nice -n 19 git add .
+rp:
+	@echo nice -n 19 git repack -a -d --window-memory 10m --max-pack-size 20m
+	nice -n 19 git config pack.windowMemory 10m
+	nice -n 19 git config pack.packSizeLimit 20m
+
 
 existHugo:=$(strip $(firstword $(wildcard scripts.Hugo/config.toml config.toml)))
 
@@ -36,9 +41,12 @@ ifdef    UseHugo
 rg:regen
 regen:
 	[ -f scripts.Hugo/config.toml ] && make regenX -C scripts.Hugo || make regenX 
+#	[ -d themes ] || echo "you should run : git clone https://marstool@github.com/marstool/themes.git"
+#	[ -d themes ] || git clone https://marstool@github.com/marstool/themes.git
 regenX:
-	[ -d themes ] || echo "you should run : git clone https://marstool@github.com/marstool/themes.git"
+	[ -d themes ] || rsync -a ../themes/  themes/
 	cd themes && git pull
+	[ -L public ] || ln -s ../public/
 	rm -fr public/*
 	rm -fr resources/_gen/*
 	cp ../CNAME public/
